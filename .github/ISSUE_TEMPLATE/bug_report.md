@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Technical issue 
-labels: Bug
+labels: bug
 ---
 
 <!---
